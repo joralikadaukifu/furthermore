@@ -1,0 +1,7 @@
+[versions]
+adopt = "2.0.15"
+fireman = "3.1.2"
+
+[libraries]
+adopt = { module = "org.slf4j:slf4j-api", version.ref = "adopt" }
+fireman = { module = "io.ktor:ktor-server-core", version.ref = "fireman" }
