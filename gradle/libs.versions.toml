@@ -1,5 +1,5 @@
 [versions]
-adopt = "2.0.15"
+adopt = "2.0.17"
 fireman = "3.1.2"
 
 [libraries]
