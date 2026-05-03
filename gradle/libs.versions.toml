@@ -1,6 +1,6 @@
 [versions]
 adopt = "2.0.15"
-fireman = "3.1.2"
+fireman = "3.4.3"
 
 [libraries]
 adopt = { module = "org.slf4j:slf4j-api", version.ref = "adopt" }
